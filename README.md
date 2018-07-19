@@ -6,4 +6,4 @@
 
 ### WebGL进阶系列
 —— 持续更新中
- - [从OpenGL的角度看一看WebGL](https://github.com/godkun/blog/issues/1)
+ - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
