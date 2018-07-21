@@ -7,4 +7,4 @@
 ### WebGL进阶系列
 —— 持续更新中
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
- - [咱不急，咱再说一说openGL(https://github.com/godkun/blog/issues/2)
+ - [咱不急，咱再说一说openGL](https://github.com/godkun/blog/issues/2)
