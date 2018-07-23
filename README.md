@@ -11,3 +11,4 @@
 
 ### 编译原理之JavaScript系列
 —— 持续更新中
+ - 开启上帝视角看穿JavaScript语言中的this
