@@ -8,6 +8,10 @@
 —— 持续更新中
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
  - [咱不急，咱再说一说openGL](https://github.com/godkun/blog/issues/2)
+ 
+### Canvas系列
+—— 持续更新中
+ - [通过讲故事带你进入canvas神奇的世界](https://github.com/godkun/blog/issues/6)
 
 ### 编译原理之JavaScript系列
 —— 持续更新中
