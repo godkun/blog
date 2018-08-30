@@ -16,6 +16,7 @@
 ### 编译原理之JavaScript系列
 —— 持续更新中
  - [开启上帝视角看穿JavaScript语言中的this](https://github.com/godkun/blog/issues/3)
+ - [开启上帝视角看穿JavaScript语言中的this](https://github.com/godkun/blog/issues/3)
  
 ### N系列
 —— 持续更新中
