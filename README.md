@@ -26,4 +26,5 @@
 —— 偶然更新
  - [岁月静好，我依旧在这](https://github.com/godkun/blog/issues/7)
  - [岁月静好，我依旧在这](https://github.com/godkun/blog/issues/7)
+ - [岁月静好，我依旧在这](https://github.com/godkun/blog/issues/7)
 
