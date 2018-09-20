@@ -22,6 +22,10 @@
 —— 持续更新中
  - [搭建最全面和实用的fiddler调试环境](https://github.com/godkun/blog/issues/4)
  
+### 重构记
+—— 持续更新中
+ - [搭建最全面和实用的fiddler调试环境](https://github.com/godkun/blog/issues/4)
+ 
 ### 生活碎碎念
 —— 偶然更新
  - [岁月静好，我依旧在这](https://github.com/godkun/blog/issues/7)
