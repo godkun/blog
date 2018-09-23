@@ -24,7 +24,7 @@
  
 ### 重构记
 —— 持续更新中
- - [小程序开发和wepy框架开发的区别](https://github.com/godkun/blog/issues/4)
+ - [为什么要重构微信主站小程序](https://github.com/godkun/blog/issues/12)
  
 ### 生活碎碎念
 —— 偶然更新
