@@ -12,20 +12,21 @@
 ### Canvas系列
 —— 持续更新中
  - [通过讲故事带你进入canvas神奇的世界](https://github.com/godkun/blog/issues/6)
-
-### 编译原理之JavaScript系列
-—— 持续更新中
- - [JavaScript语言的故事](https://github.com/godkun/blog/issues/3)
- 
-### N系列
-—— 持续更新中
- - [45度仰角看响应式编程](https://github.com/godkun/blog/issues/4)
- - [开启上帝视角看穿JavaScript语言中的this](https://github.com/godkun/blog/issues/3)
  
 ### 小程序重构记
 —— 持续更新中
  - [为什么要重构微信主站小程序](https://github.com/godkun/blog/issues/12)
  - [重构小程序完成进度表](https://github.com/godkun/blog/issues/13)
+ 
+### N系列
+—— 持续更新中
+ - [45度仰角看响应式编程](https://github.com/godkun/blog/issues/4)
+ - [开启上帝视角看穿JavaScript语言中的this](https://github.com/godkun/blog/issues/3)
+
+### 编译原理之JavaScript系列
+—— 持续更新中
+ - [JavaScript语言的故事](https://github.com/godkun/blog/issues/3)
+ 
 ### 生活碎碎念
 —— 偶然更新
  - [程序员之禅](https://github.com/godkun/blog/issues/7)
