@@ -27,5 +27,5 @@
  
 ### 生活碎碎念
 —— 偶然更新
- - [程序员之禅 ](https://github.com/godkun/blog/issues/7)
+ - [程序员之禅](https://github.com/godkun/blog/issues/7)
 
