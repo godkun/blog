@@ -16,7 +16,6 @@
 ### 编译原理之JavaScript系列
 —— 持续更新中
  - [开启上帝视角看穿JavaScript语言中的this](https://github.com/godkun/blog/issues/3)
- - [开启上帝视角看穿JavaScript语言中的this](https://github.com/godkun/blog/issues/3)
  
 ### N系列
 —— 持续更新中
@@ -28,7 +27,5 @@
  
 ### 生活碎碎念
 —— 偶然更新
- - [岁月静好，我依旧在这](https://github.com/godkun/blog/issues/7)
- - [岁月静好，我依旧在这](https://github.com/godkun/blog/issues/7)
  - [岁月静好，我依旧在这](https://github.com/godkun/blog/issues/7)
 
