@@ -28,4 +28,5 @@
 ### 生活碎碎念
 —— 偶然更新
  - [程序员之禅](https://github.com/godkun/blog/issues/7)
+ - [前端路漫漫，我将上下而求索](https://github.com/godkun/blog/issues/5)
 
