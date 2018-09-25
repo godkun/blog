@@ -25,7 +25,11 @@
 
 ### 编译原理之JavaScript系列
 —— 持续更新中
- - [JavaScript语言的故事](https://github.com/godkun/blog/issues/3)
+ - [JavaScript语言的故事](https://github.com/godkun/blog/issues/11)
+ 
+### 前端读书笔记
+—— 持续更新中
+ - [包容性Web设计](https://github.com/godkun/blog/issues/3)
  
 ### 生活碎碎念
 —— 偶然更新
