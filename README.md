@@ -8,10 +8,6 @@
 —— 持续更新中
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
  
-### Canvas系列
-—— 持续更新中
- - [通过讲故事带你进入canvas神奇的世界](https://github.com/godkun/blog/issues/6)
- 
 ### 前端界的十万个为什么
 —— 持续更新中
  - [你真的懂浮动吗](https://github.com/godkun/fee-problems/issues/1)
