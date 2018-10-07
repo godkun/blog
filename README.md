@@ -7,7 +7,6 @@
 ### WebGL进阶系列
 —— 持续更新中
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
- - [咱不急，咱再说一说openGL](https://github.com/godkun/blog/issues/2)
  
 ### Canvas系列
 —— 持续更新中
@@ -15,23 +14,7 @@
  
 ### 前端界的十万个为什么
 —— 持续更新中
- - [你真的懂浮动吗](https://github.com/godkun/blog/issues/6)
-### 源码解读
-—— 持续更新中
- 
-### 小程序重构记
-—— 持续更新中
- - [为什么要重构微信主站小程序](https://github.com/godkun/blog/issues/12)
- - [重构小程序完成进度表](https://github.com/godkun/blog/issues/13)
- 
-### N系列
-—— 持续更新中
- - [45度仰角看响应式编程](https://github.com/godkun/blog/issues/4)
- - [开启上帝视角看穿JavaScript语言中的this](https://github.com/godkun/blog/issues/3)
-
-### 编译原理之JavaScript系列
-—— 持续更新中
- - [JavaScript语言的故事](https://github.com/godkun/blog/issues/11)
+ - [你真的懂浮动吗](https://github.com/godkun/fee-problems/issues/1)
  
 ### 前端读书笔记
 —— 持续更新中
@@ -41,4 +24,3 @@
 —— 偶然更新
  - [程序员之禅](https://github.com/godkun/blog/issues/7)
  - [前端路漫漫，我将上下而求索](https://github.com/godkun/blog/issues/5)
- - [国庆节有感](https://github.com/godkun/blog/issues/)
