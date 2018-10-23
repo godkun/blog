@@ -11,7 +11,13 @@
 ### 前端界的十万个为什么
 —— 持续更新中
  - [你真的懂浮动吗](https://github.com/godkun/fee-problems/issues/1)
- 
+
+### 重构记
+—— 持续更新中
+ - [通用红包非重构版完成后的总结](https://github.com/godkun/fee-problems/issues/15)
+ - [重构通用红包第一版完成总结](https://github.com/godkun/fee-problems/issues/14)
+ - [重构通用红包第二版完成总结](https://github.com/godkun/fee-problems/issues/16)
+
 ### 前端读书笔记
 —— 持续更新中
  - [《包容性Web设计》读后感](https://github.com/godkun/blog/issues/11)
