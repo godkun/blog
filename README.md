@@ -13,10 +13,6 @@
 ### WebGL进阶系列
 —— 持续更新中
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
- 
-### 前端界的十万个为什么
-—— 持续更新中
- - [你真的懂浮动吗](https://github.com/godkun/fee-problems/issues/1)
 
 ### 重构记
 —— 持续更新中
