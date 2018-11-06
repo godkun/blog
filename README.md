@@ -9,6 +9,9 @@
  - [一个前端工程师看完《代码大全》后的二三总结](https://github.com/godkun/blog/issues/17)
  - [可能是最全面最易懂的解析前端浮动的文章](https://github.com/godkun/blog/issues/18)
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
+ 
+### 函数式编程
+—— 持续更新中
 
 ### WebGL进阶系列
 —— 持续更新中
