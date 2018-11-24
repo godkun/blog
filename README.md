@@ -6,6 +6,7 @@
 
 ### 掘金系列
 —— 持续更新中
+ - [前端猎奇系列之探索Python来反补JavaScript——上篇](https://juejin.im/post/5bf7fb70e51d45452f2d4fe8)
  - [一个前端工程师看完《代码大全》后的二三总结](https://github.com/godkun/blog/issues/17)
  - [可能是最全面最易懂的解析前端浮动的文章](https://github.com/godkun/blog/issues/18)
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
@@ -19,9 +20,6 @@
 
 ### 重构记
 —— 持续更新中
- - [通用红包非重构版完成后的总结](https://github.com/godkun/fee-problems/issues/15)
- - [重构通用红包第一版完成总结](https://github.com/godkun/fee-problems/issues/14)
- - [重构通用红包第二版完成总结](https://github.com/godkun/fee-problems/issues/16)
 
 ### 前端读书笔记
 —— 持续更新中
