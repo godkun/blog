@@ -10,10 +10,7 @@
  - [一个前端工程师看完《代码大全》后的二三总结](https://github.com/godkun/blog/issues/17)
  - [可能是最全面最易懂的解析前端浮动的文章](https://github.com/godkun/blog/issues/18)
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
-
-### 前端读书笔记
-—— 持续更新中
- - [《包容性Web设计》读后感](https://github.com/godkun/blog/issues/11)
+ - [前端读书寻宝记之读《包容性Web设计》有感](https://github.com/godkun/blog/issues/11)
  
 ### 生活碎碎念
 —— 偶然更新
