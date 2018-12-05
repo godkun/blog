@@ -11,7 +11,7 @@
  - [可能是最全面最易懂的解析前端浮动的文章](https://github.com/godkun/blog/issues/18)
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
  - [前端读书寻宝记之读《包容性Web设计》有感](https://github.com/godkun/blog/issues/11)
- - [前端读书寻宝记之读《包容性Web设计》有感](https://github.com/godkun/blog/issues/25)
+ - [探索 Python 来反补 JavaScript，带你 Cross Fire —— JS 数据类型的奥秘](https://github.com/godkun/blog/issues/26) 
  
 ### 生活碎碎念
 —— 偶然更新
