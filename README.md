@@ -6,6 +6,7 @@
 
 ### 掘金系列
 —— 持续更新中
+ - [不敢阅读 npm 包源码？带你揭秘 taro init 背后的哲学](https://github.com/godkun/blog/issues/30)
  - [前端猎奇系列之探索Python来反补JavaScript——上篇](https://github.com/godkun/blog/issues/23)
  - [一个前端工程师看完《代码大全》后的二三总结](https://github.com/godkun/blog/issues/17)
  - [可能是最全面最易懂的解析前端浮动的文章](https://github.com/godkun/blog/issues/18)
