@@ -13,6 +13,11 @@
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
  - [前端读书寻宝记之读《包容性Web设计》有感](https://github.com/godkun/blog/issues/11)
  - [探索 Python 来反补 JavaScript，带你 Cross Fire —— JS 数据类型的奥秘](https://github.com/godkun/blog/issues/26) 
+
+### 掘金系列
+—— 持续更新中
+ - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
+ - [浅谈OpenGL——WebGL的大哥](https://github.com/godkun/blog/issues/2)
  
 ### 生活碎碎念
 —— 偶然更新
