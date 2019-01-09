@@ -4,16 +4,24 @@
 
 ## 不定期更新中————
 
-### 掘金系列
+### 深入原理
 —— 持续更新中
  - [不敢阅读 npm 包源码？带你揭秘 taro init 背后的哲学](https://github.com/godkun/blog/issues/30)
- - [前端猎奇系列之探索Python来反补JavaScript——上篇](https://github.com/godkun/blog/issues/23)
- - [一个前端工程师看完《代码大全》后的二三总结](https://github.com/godkun/blog/issues/17)
  - [可能是最全面最易懂的解析前端浮动的文章](https://github.com/godkun/blog/issues/18)
- - [前端读书寻宝记之读《包容性Web设计》有感](https://github.com/godkun/blog/issues/11)
- - [探索 Python 来反补 JavaScript，带你 Cross Fire —— JS 数据类型的奥秘](https://github.com/godkun/blog/issues/26) 
 
-### 高级知识
+### WebGL
 —— 持续更新中
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
- - [浅谈OpenGL——WebGL的大哥](https://github.com/godkun/blog/issues/2)
+
+### 前端人工智能
+ 
+### 读书笔记
+—— 持续更新中
+ - [一个前端工程师看完《代码大全》后的二三总结](https://github.com/godkun/blog/issues/17)
+ - [前端读书寻宝记之读《包容性Web设计》有感](https://github.com/godkun/blog/issues/11)
+ 
+ 
+### 猎奇系列
+—— 持续更新中
+- [前端猎奇系列之探索Python来反补JavaScript——上篇](https://github.com/godkun/blog/issues/23)
+- [探索 Python 来反补 JavaScript，带你 Cross Fire —— JS 数据类型的奥秘](https://github.com/godkun/blog/issues/26) 
