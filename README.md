@@ -10,16 +10,10 @@
  - [前端猎奇系列之探索Python来反补JavaScript——上篇](https://github.com/godkun/blog/issues/23)
  - [一个前端工程师看完《代码大全》后的二三总结](https://github.com/godkun/blog/issues/17)
  - [可能是最全面最易懂的解析前端浮动的文章](https://github.com/godkun/blog/issues/18)
- - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
  - [前端读书寻宝记之读《包容性Web设计》有感](https://github.com/godkun/blog/issues/11)
  - [探索 Python 来反补 JavaScript，带你 Cross Fire —— JS 数据类型的奥秘](https://github.com/godkun/blog/issues/26) 
 
-### 掘金系列
+### 高级知识
 —— 持续更新中
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
  - [浅谈OpenGL——WebGL的大哥](https://github.com/godkun/blog/issues/2)
- 
-### 生活碎碎念
-—— 偶然更新
- - [程序员之禅](https://github.com/godkun/blog/issues/7)
- - [前端路漫漫，我将上下而求索](https://github.com/godkun/blog/issues/5)
