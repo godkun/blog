@@ -22,3 +22,8 @@
 —— 持续更新中
 - [前端猎奇系列之探索Python来反补JavaScript——上篇](https://github.com/godkun/blog/issues/23)
 - [探索 Python 来反补 JavaScript，带你 Cross Fire —— JS 数据类型的奥秘](https://github.com/godkun/blog/issues/26) 
+
+### 计算机知识
+—— 持续更新中
+- [通过讲故事搞定前端网络知识](https://github.com/godkun/blog/issues/32)
+
