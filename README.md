@@ -28,6 +28,6 @@
 —— 持续更新中
 - [通过讲故事搞定前端网络知识](https://github.com/godkun/blog/issues/32)
 
-### 函数
+### 如何编写高质量的函数
 —— 持续更新中
-- [如何编写高质量的函数](https://github.com/godkun/blog/issues/33)
+- [如何编写高质量的函数 -- 敲山震虎篇](https://github.com/godkun/blog/issues/33)
