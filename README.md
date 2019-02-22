@@ -31,3 +31,15 @@
 ### 如何编写高质量的函数
 —— 持续更新中
 - [如何编写高质量的函数 -- 敲山震虎篇](https://github.com/godkun/blog/issues/33)
+
+### 掘金所写文章答疑篇
+—— 持续更新中
+- [如何编写高质量的函数 -- 敲山震虎的答疑篇](https://github.com/godkun/blog/issues/34)
+
+### 前端狂想录群的日常问题清单以及解决方案
+—— 持续更新中
+- [ssss](https://github.com/godkun/blog/issues/33)
+
+想加入群一起讨论，一起成长的，可以扫下面二维码加我好友，我拉你进群。
+
+![](https://user-gold-cdn.xitu.io/2019/2/20/1690a43a6632a3aa?w=404&h=124&f=png&s=29452)
