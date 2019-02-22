@@ -38,8 +38,8 @@
 
 ### 前端狂想录群的日常问题清单以及解决方案
 —— 持续更新中
-- [ssss](https://github.com/godkun/blog/issues/33)
+- [2019年2月下旬问题及解决方案清单](https://github.com/godkun/blog/issues/35)
 
 想加入群一起讨论，一起成长的，可以扫下面二维码加我好友，我拉你进群。
 
-![](https://user-gold-cdn.xitu.io/2019/2/20/1690a43a6632a3aa?w=404&h=124&f=png&s=29452)
+![](https://user-gold-cdn.xitu.io/2019/1/13/16842e04aabfe171?w=674&h=896&f=png&s=205265)
