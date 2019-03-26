@@ -11,15 +11,30 @@
 
 -------------------
 
+
+### 如何编写高质量的函数
+—— 持续更新中
+- [如何编写高质量的函数 -- 敲山震虎篇](https://github.com/godkun/blog/issues/33)
+- [如何编写高质量的函数 -- 命名/注释/鲁棒篇](https://github.com/godkun/blog/issues/37)
+- [如何编写高质量的函数 -- 打通任督二脉篇[理论卷]](https://github.com/godkun/blog/issues/42)
+- [如何编写高质量的函数 -- 打通任督二脉篇[实战卷]](https://github.com/godkun/blog/issues/43)
+
+---------------------
+
 ### WebGL
 —— 持续更新中
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
+ 
+---------------------
+
  
 ### 读书笔记
 —— 持续更新中
  - [一个前端工程师看完《代码大全》后的二三总结](https://github.com/godkun/blog/issues/17)
  - [前端读书寻宝记之读《包容性Web设计》有感](https://github.com/godkun/blog/issues/11)
  - [新时代下前端工程师的推荐书籍和必备知识](https://github.com/godkun/blog/issues/36)
+
+---------------------
  
 ### 猎奇系列
 —— 持续更新中
@@ -31,15 +46,6 @@
 ### 计算机知识
 —— 持续更新中
 - [通过讲故事搞定前端网络知识](https://github.com/godkun/blog/issues/32)
-
----------------------
-
-### 如何编写高质量的函数
-—— 持续更新中
-- [如何编写高质量的函数 -- 敲山震虎篇](https://github.com/godkun/blog/issues/33)
-- [如何编写高质量的函数 -- 命名/注释/鲁棒篇](https://github.com/godkun/blog/issues/37)
-- [如何编写高质量的函数 -- 打通任督二脉篇[理论卷]](https://github.com/godkun/blog/issues/42)
-- [如何编写高质量的函数 -- 打通任督二脉篇[实战卷]](https://github.com/godkun/blog/issues/43)
 
 ---------------------
 
