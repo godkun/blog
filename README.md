@@ -38,6 +38,8 @@
 —— 持续更新中
 - [如何编写高质量的函数 -- 敲山震虎篇](https://github.com/godkun/blog/issues/33)
 - [如何编写高质量的函数 -- 命名/注释/鲁棒篇](https://github.com/godkun/blog/issues/37)
+- [如何编写高质量的函数 -- 打通任督二脉篇[理论卷]](https://github.com/godkun/blog/issues/42)
+- [如何编写高质量的函数 -- 打通任督二脉篇[实战卷]](https://github.com/godkun/blog/issues/43)
 
 ---------------------
 
