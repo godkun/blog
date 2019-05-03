@@ -5,6 +5,7 @@
 <p align="center">
   <a href=""><img id="like" src="https://img.shields.io/badge/掘金-3.2k喜欢-blue.svg" alt="Build Status"></a>
   <a href=""><img id="read" src="https://img.shields.io/badge/掘金-77.6k阅读-blue.svg" alt="Build Status"></a>
+  <a href=""><img id="read" src="https://img.shields.io/badge/掘金-4.2k关注-yellow.svg" alt="Build Status"></a>
 </p>
 
 > 掘金博客 `TP` ：[源码终结者](https://juejin.im/user/5ae087fbf265da0b9c104fa4/posts)
