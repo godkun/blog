@@ -7,6 +7,8 @@
   <a href=""><img id="read" src="https://img.shields.io/badge/掘金-77.6k阅读-blue.svg" alt="Build Status"></a>
 </p>
 
+> 掘金博客 `TP` ：[源码终结者](https://juejin.im/user/5ae087fbf265da0b9c104fa4/posts)
+
 ## 不定期更新中————
 
 ### 深入原理
