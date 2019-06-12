@@ -2,6 +2,14 @@
 
 <h3 align="center">北冥有鱼的笔记</h3>
 
+<p align="center">
+  <a href=""><img id="like" src="https://img.shields.io/badge/掘金-3.2k喜欢-blue.svg" alt="Build Status"></a>
+  <a href=""><img id="read" src="https://img.shields.io/badge/掘金-77.6k阅读-blue.svg" alt="Build Status"></a>
+  <a href=""><img id="read" src="https://img.shields.io/badge/掘金-4.2k关注-yellow.svg" alt="Build Status"></a>
+</p>
+
+> 掘金博客 `TP` ：[源码终结者](https://juejin.im/user/5ae087fbf265da0b9c104fa4/posts)
+
 ## 不定期更新中————
 
 ### 深入原理
@@ -11,15 +19,34 @@
 
 -------------------
 
+
+### 如何编写高质量的函数
+—— 持续更新中
+- [如何编写高质量的函数 -- 敲山震虎篇](https://github.com/godkun/blog/issues/33)
+- [如何编写高质量的函数 -- 命名/注释/鲁棒篇](https://github.com/godkun/blog/issues/37)
+- [如何编写高质量的函数 -- 打通任督二脉篇[理论卷]](https://github.com/godkun/blog/issues/42)
+- [如何编写高质量的函数 -- 打通任督二脉篇[实战卷]](https://github.com/godkun/blog/issues/43)
+
+### 结对编程记
+—— 持续更新中
+- [如何在新时代下的结对编程中将代码玩出花来](https://github.com/godkun/blog/issues/44)
+
+---------------------
+
 ### WebGL
 —— 持续更新中
  - [飞一般的webGL之唱起3D编程前的战歌](https://github.com/godkun/blog/issues/1)
+ 
+---------------------
+
  
 ### 读书笔记
 —— 持续更新中
  - [一个前端工程师看完《代码大全》后的二三总结](https://github.com/godkun/blog/issues/17)
  - [前端读书寻宝记之读《包容性Web设计》有感](https://github.com/godkun/blog/issues/11)
  - [新时代下前端工程师的推荐书籍和必备知识](https://github.com/godkun/blog/issues/36)
+
+---------------------
  
 ### 猎奇系列
 —— 持续更新中
@@ -31,13 +58,6 @@
 ### 计算机知识
 —— 持续更新中
 - [通过讲故事搞定前端网络知识](https://github.com/godkun/blog/issues/32)
-
----------------------
-
-### 如何编写高质量的函数
-—— 持续更新中
-- [如何编写高质量的函数 -- 敲山震虎篇](https://github.com/godkun/blog/issues/33)
-- [如何编写高质量的函数 -- 命名/注释/鲁棒篇](https://github.com/godkun/blog/issues/37)
 
 ---------------------
 
