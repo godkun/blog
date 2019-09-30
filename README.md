@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href=""><img id="like" src="https://img.shields.io/badge/掘金-3.2k喜欢-blue.svg" alt="Build Status"></a>
-  <a href=""><img id="read" src="https://img.shields.io/badge/掘金-77.6k阅读-blue.svg" alt="Build Status"></a>
-  <a href=""><img id="read" src="https://img.shields.io/badge/掘金-4.2k关注-yellow.svg" alt="Build Status"></a>
+  <a href=""><img id="read" src="https://img.shields.io/badge/掘金-89.3k阅读-blue.svg" alt="Build Status"></a>
+  <a href=""><img id="read" src="https://img.shields.io/badge/掘金-5.2k关注-yellow.svg" alt="Build Status"></a>
 </p>
 
 > 掘金博客 `TP` ：[源码终结者](https://juejin.im/user/5ae087fbf265da0b9c104fa4/posts)
@@ -16,6 +16,7 @@
 —— 持续更新中
  - [不敢阅读 npm 包源码？带你揭秘 taro init 背后的哲学](https://github.com/godkun/blog/issues/30)
  - [可能是最全面最易懂的解析前端浮动的文章](https://github.com/godkun/blog/issues/18)
+ - [帮你揭开函数式编程的底层面纱](https://github.com/godkun/blog/issues/45)
 
 -------------------
 
